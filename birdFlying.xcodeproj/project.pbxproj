@@ -14,6 +14,13 @@
 		1841D60D1C2F832400742FD4 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1841D60C1C2F832400742FD4 /* Images.xcassets */; };
 		1841D6101C2F832400742FD4 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1841D60E1C2F832400742FD4 /* LaunchScreen.xib */; };
 		1841D61C1C2F832400742FD4 /* birdFlyingTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1841D61B1C2F832400742FD4 /* birdFlyingTests.m */; };
+		1841D62C1C2F83EF00742FD4 /* bird0.png in Resources */ = {isa = PBXBuildFile; fileRef = 1841D6251C2F83EF00742FD4 /* bird0.png */; };
+		1841D62D1C2F83EF00742FD4 /* bird1.png in Resources */ = {isa = PBXBuildFile; fileRef = 1841D6261C2F83EF00742FD4 /* bird1.png */; };
+		1841D62E1C2F83EF00742FD4 /* bird2.png in Resources */ = {isa = PBXBuildFile; fileRef = 1841D6271C2F83EF00742FD4 /* bird2.png */; };
+		1841D62F1C2F83EF00742FD4 /* bird3.png in Resources */ = {isa = PBXBuildFile; fileRef = 1841D6281C2F83EF00742FD4 /* bird3.png */; };
+		1841D6301C2F83EF00742FD4 /* bird4.png in Resources */ = {isa = PBXBuildFile; fileRef = 1841D6291C2F83EF00742FD4 /* bird4.png */; };
+		1841D6311C2F83EF00742FD4 /* bird5.png in Resources */ = {isa = PBXBuildFile; fileRef = 1841D62A1C2F83EF00742FD4 /* bird5.png */; };
+		1841D6321C2F83EF00742FD4 /* jungle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1841D62B1C2F83EF00742FD4 /* jungle.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +47,13 @@
 		1841D6151C2F832400742FD4 /* birdFlyingTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = birdFlyingTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1841D61A1C2F832400742FD4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1841D61B1C2F832400742FD4 /* birdFlyingTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = birdFlyingTests.m; sourceTree = "<group>"; };
+		1841D6251C2F83EF00742FD4 /* bird0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird0.png; sourceTree = SOURCE_ROOT; };
+		1841D6261C2F83EF00742FD4 /* bird1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird1.png; sourceTree = SOURCE_ROOT; };
+		1841D6271C2F83EF00742FD4 /* bird2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird2.png; sourceTree = SOURCE_ROOT; };
+		1841D6281C2F83EF00742FD4 /* bird3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird3.png; sourceTree = SOURCE_ROOT; };
+		1841D6291C2F83EF00742FD4 /* bird4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird4.png; sourceTree = SOURCE_ROOT; };
+		1841D62A1C2F83EF00742FD4 /* bird5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird5.png; sourceTree = SOURCE_ROOT; };
+		1841D62B1C2F83EF00742FD4 /* jungle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jungle.jpg; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +110,13 @@
 		1841D5FF1C2F832400742FD4 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				1841D6251C2F83EF00742FD4 /* bird0.png */,
+				1841D6261C2F83EF00742FD4 /* bird1.png */,
+				1841D6271C2F83EF00742FD4 /* bird2.png */,
+				1841D6281C2F83EF00742FD4 /* bird3.png */,
+				1841D6291C2F83EF00742FD4 /* bird4.png */,
+				1841D62A1C2F83EF00742FD4 /* bird5.png */,
+				1841D62B1C2F83EF00742FD4 /* jungle.jpg */,
 				1841D6001C2F832400742FD4 /* Info.plist */,
 				1841D6011C2F832400742FD4 /* main.m */,
 			);
@@ -199,9 +220,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1841D62D1C2F83EF00742FD4 /* bird1.png in Resources */,
+				1841D6301C2F83EF00742FD4 /* bird4.png in Resources */,
+				1841D6311C2F83EF00742FD4 /* bird5.png in Resources */,
 				1841D60B1C2F832400742FD4 /* Main.storyboard in Resources */,
+				1841D6321C2F83EF00742FD4 /* jungle.jpg in Resources */,
+				1841D62C1C2F83EF00742FD4 /* bird0.png in Resources */,
 				1841D6101C2F832400742FD4 /* LaunchScreen.xib in Resources */,
 				1841D60D1C2F832400742FD4 /* Images.xcassets in Resources */,
+				1841D62F1C2F83EF00742FD4 /* bird3.png in Resources */,
+				1841D62E1C2F83EF00742FD4 /* bird2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
